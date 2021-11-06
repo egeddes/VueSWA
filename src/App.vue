@@ -1,5 +1,6 @@
 <template>
   <div>Hello {{ value }}</div>
+  <h2> Watford Crystal </h2>
 </template>
 
 <script>
